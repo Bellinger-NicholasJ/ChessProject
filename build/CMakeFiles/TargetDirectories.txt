@@ -1,0 +1,3 @@
+/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir
+/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/edit_cache.dir
+/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/rebuild_cache.dir
