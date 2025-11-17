@@ -113,6 +113,8 @@ chess_EXTERNAL_OBJECTS =
 chess: CMakeFiles/chess.dir/cmake_pch.hxx.pch
 chess: CMakeFiles/chess.dir/src/main.cpp.o
 chess: CMakeFiles/chess.dir/build.make
+chess: vendors/glfw/src/libglfw3.a
+chess: vendors/glad/libglad.a
 chess: CMakeFiles/chess.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable chess"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/chess.dir/link.txt --verbose=$(VERBOSE)

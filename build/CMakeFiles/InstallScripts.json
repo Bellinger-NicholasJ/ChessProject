@@ -1,7 +1,11 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/the-architekt/Dev/ChessProject/build/cmake_install.cmake"
+		"/Users/the-architekt/Dev/ChessProject/build/cmake_install.cmake",
+		"/Users/the-architekt/Dev/ChessProject/build/vendors/glfw/cmake_install.cmake",
+		"/Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src/cmake_install.cmake",
+		"/Users/the-architekt/Dev/ChessProject/build/vendors/glfw/docs/cmake_install.cmake",
+		"/Users/the-architekt/Dev/ChessProject/build/vendors/glad/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
