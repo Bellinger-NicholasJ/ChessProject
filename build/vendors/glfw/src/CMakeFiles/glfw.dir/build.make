@@ -299,72 +299,72 @@ vendors/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.s: cmake_force
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/flags.make
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o: /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_init.m
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o -MF CMakeFiles/glfw.dir/cocoa_init.m.o.d -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_init.m
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building OBJC object vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) -x objective-c $(OBJC_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o -MF CMakeFiles/glfw.dir/cocoa_init.m.o.d -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_init.m
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/glfw.dir/cocoa_init.m.i"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_init.m > CMakeFiles/glfw.dir/cocoa_init.m.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJC source to CMakeFiles/glfw.dir/cocoa_init.m.i"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_init.m > CMakeFiles/glfw.dir/cocoa_init.m.i
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/glfw.dir/cocoa_init.m.s"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_init.m -o CMakeFiles/glfw.dir/cocoa_init.m.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJC source to assembly CMakeFiles/glfw.dir/cocoa_init.m.s"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_init.m -o CMakeFiles/glfw.dir/cocoa_init.m.s
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/flags.make
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_joystick.m
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o -MF CMakeFiles/glfw.dir/cocoa_joystick.m.o.d -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_joystick.m
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building OBJC object vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) -x objective-c $(OBJC_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o -MF CMakeFiles/glfw.dir/cocoa_joystick.m.o.d -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_joystick.m
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/glfw.dir/cocoa_joystick.m.i"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_joystick.m > CMakeFiles/glfw.dir/cocoa_joystick.m.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJC source to CMakeFiles/glfw.dir/cocoa_joystick.m.i"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_joystick.m > CMakeFiles/glfw.dir/cocoa_joystick.m.i
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/glfw.dir/cocoa_joystick.m.s"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_joystick.m -o CMakeFiles/glfw.dir/cocoa_joystick.m.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJC source to assembly CMakeFiles/glfw.dir/cocoa_joystick.m.s"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_joystick.m -o CMakeFiles/glfw.dir/cocoa_joystick.m.s
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/flags.make
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o: /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_monitor.m
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o -MF CMakeFiles/glfw.dir/cocoa_monitor.m.o.d -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_monitor.m
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building OBJC object vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) -x objective-c $(OBJC_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o -MF CMakeFiles/glfw.dir/cocoa_monitor.m.o.d -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_monitor.m
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/glfw.dir/cocoa_monitor.m.i"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_monitor.m > CMakeFiles/glfw.dir/cocoa_monitor.m.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJC source to CMakeFiles/glfw.dir/cocoa_monitor.m.i"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_monitor.m > CMakeFiles/glfw.dir/cocoa_monitor.m.i
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/glfw.dir/cocoa_monitor.m.s"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_monitor.m -o CMakeFiles/glfw.dir/cocoa_monitor.m.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJC source to assembly CMakeFiles/glfw.dir/cocoa_monitor.m.s"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_monitor.m -o CMakeFiles/glfw.dir/cocoa_monitor.m.s
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/flags.make
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o: /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_window.m
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o -MF CMakeFiles/glfw.dir/cocoa_window.m.o.d -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_window.m
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building OBJC object vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) -x objective-c $(OBJC_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o -MF CMakeFiles/glfw.dir/cocoa_window.m.o.d -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_window.m
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/glfw.dir/cocoa_window.m.i"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_window.m > CMakeFiles/glfw.dir/cocoa_window.m.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJC source to CMakeFiles/glfw.dir/cocoa_window.m.i"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_window.m > CMakeFiles/glfw.dir/cocoa_window.m.i
 
 vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/glfw.dir/cocoa_window.m.s"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_window.m -o CMakeFiles/glfw.dir/cocoa_window.m.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJC source to assembly CMakeFiles/glfw.dir/cocoa_window.m.s"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_window.m -o CMakeFiles/glfw.dir/cocoa_window.m.s
 
 vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/flags.make
 vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o: /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/nsgl_context.m
 vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o: vendors/glfw/src/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o -MF CMakeFiles/glfw.dir/nsgl_context.m.o.d -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/nsgl_context.m
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building OBJC object vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) -x objective-c $(OBJC_FLAGS) -MD -MT vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o -MF CMakeFiles/glfw.dir/nsgl_context.m.o.d -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/nsgl_context.m
 
 vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/glfw.dir/nsgl_context.m.i"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/nsgl_context.m > CMakeFiles/glfw.dir/nsgl_context.m.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJC source to CMakeFiles/glfw.dir/nsgl_context.m.i"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -E /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/nsgl_context.m > CMakeFiles/glfw.dir/nsgl_context.m.i
 
 vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/glfw.dir/nsgl_context.m.s"
-	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/nsgl_context.m -o CMakeFiles/glfw.dir/nsgl_context.m.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJC source to assembly CMakeFiles/glfw.dir/nsgl_context.m.s"
+	cd /Users/the-architekt/Dev/ChessProject/build/vendors/glfw/src && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -S /Users/the-architekt/Dev/ChessProject/vendors/glfw/src/nsgl_context.m -o CMakeFiles/glfw.dir/nsgl_context.m.s
 
 # Object files for target glfw
 glfw_OBJECTS = \

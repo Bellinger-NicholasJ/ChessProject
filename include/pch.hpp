@@ -6,5 +6,14 @@ See the LICENSE file in the project root for full terms. */
 #define PCH_HPP
 
 #include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <vector>
+
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+#include <glm/glm.hpp>
+#include <stb_image.h>
 
 #endif

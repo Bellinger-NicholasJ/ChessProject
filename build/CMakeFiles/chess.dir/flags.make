@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DGL_SILENCE_DEPRECATION
 
-CXX_INCLUDES = -I/Users/the-architekt/Dev/ChessProject/include -I/Users/the-architekt/Dev/ChessProject/vendors/glfw/include -I/Users/the-architekt/Dev/ChessProject/vendors/glad/include
+CXX_INCLUDES = -I/Users/the-architekt/Dev/ChessProject/include -I/Users/the-architekt/Dev/ChessProject/vendors/glfw/include -I/Users/the-architekt/Dev/ChessProject/vendors/glad/include -I/Users/the-architekt/Dev/ChessProject/vendors/glm -I/Users/the-architekt/Dev/ChessProject/vendors/stb/include
 
 CXX_FLAGSarm64 = -std=gnu++17 -arch arm64
 
@@ -13,4 +13,12 @@ CXX_FLAGS = -std=gnu++17 -arch arm64
 # PCH options: CMakeFiles/chess.dir/cmake_pch.hxx.pch_OPTIONS = -Winvalid-pch;-Xclang;-emit-pch;-Xclang;-include;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx;-x;c++-header
 
 # PCH options: CMakeFiles/chess.dir/src/main.cpp.o_OPTIONS = -Winvalid-pch;-Xclang;-include-pch;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch;-Xclang;-include;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx
+
+# PCH options: CMakeFiles/chess.dir/src/Shader.cpp.o_OPTIONS = -Winvalid-pch;-Xclang;-include-pch;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch;-Xclang;-include;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx
+
+# PCH options: CMakeFiles/chess.dir/src/Sprite.cpp.o_OPTIONS = -Winvalid-pch;-Xclang;-include-pch;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch;-Xclang;-include;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx
+
+# PCH options: CMakeFiles/chess.dir/src/Texture.cpp.o_OPTIONS = -Winvalid-pch;-Xclang;-include-pch;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch;-Xclang;-include;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx
+
+# PCH options: CMakeFiles/chess.dir/src/Window.cpp.o_OPTIONS = -Winvalid-pch;-Xclang;-include-pch;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch;-Xclang;-include;-Xclang;/Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx
 

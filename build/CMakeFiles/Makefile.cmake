@@ -19,6 +19,9 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/CMakeLists.txt"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/docs/CMakeLists.txt"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/CMakeLists.txt"
+  "/Users/the-architekt/Dev/ChessProject/vendors/glm/CMakeLists.txt"
+  "/Users/the-architekt/Dev/ChessProject/vendors/glm/glm/CMakeLists.txt"
+  "/Users/the-architekt/Dev/ChessProject/vendors/stb/CMakeLists.txt"
   "/opt/homebrew/share/cmake/Modules/BasicConfigVersion-SameMajorVersion.cmake.in"
   "/opt/homebrew/share/cmake/Modules/CMakeCInformation.cmake"
   "/opt/homebrew/share/cmake/Modules/CMakeCXXInformation.cmake"
@@ -81,6 +84,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "vendors/glad/CMakeFiles/CMakeDirectoryInformation.cmake"
   "vendors/glfw/src/glfw3Config.cmake"
   "vendors/glfw/src/glfw3ConfigVersion.cmake"
   "vendors/glfw/cmake_uninstall.cmake"
@@ -88,14 +92,17 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "vendors/glfw/src/glfw3.pc"
   "vendors/glfw/src/CMakeFiles/CMakeDirectoryInformation.cmake"
   "vendors/glfw/docs/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "vendors/glad/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "vendors/glm/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "vendors/glm/glm/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "vendors/stb/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/chess.dir/DependInfo.cmake"
+  "vendors/glad/CMakeFiles/glad.dir/DependInfo.cmake"
   "vendors/glfw/CMakeFiles/uninstall.dir/DependInfo.cmake"
   "vendors/glfw/src/CMakeFiles/glfw.dir/DependInfo.cmake"
   "vendors/glfw/src/CMakeFiles/update_mappings.dir/DependInfo.cmake"
-  "vendors/glad/CMakeFiles/glad.dir/DependInfo.cmake"
+  "vendors/glm/glm/CMakeFiles/glm.dir/DependInfo.cmake"
   )

@@ -8,17 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_init.m" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o.d"
-  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_joystick.m" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o.d"
-  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_monitor.m" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_time.c" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o.d"
-  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_window.m" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/context.c" "vendors/glfw/src/CMakeFiles/glfw.dir/context.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/context.c.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/egl_context.c" "vendors/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/init.c" "vendors/glfw/src/CMakeFiles/glfw.dir/init.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/init.c.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/input.c" "vendors/glfw/src/CMakeFiles/glfw.dir/input.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/input.c.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/monitor.c" "vendors/glfw/src/CMakeFiles/glfw.dir/monitor.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/monitor.c.o.d"
-  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/nsgl_context.m" "vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/null_init.c" "vendors/glfw/src/CMakeFiles/glfw.dir/null_init.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/null_init.c.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/null_joystick.c" "vendors/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/null_monitor.c" "vendors/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o.d"
@@ -29,6 +24,11 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/posix_thread.c" "vendors/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/vulkan.c" "vendors/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o.d"
   "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/window.c" "vendors/glfw/src/CMakeFiles/glfw.dir/window.c.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/window.c.o.d"
+  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_init.m" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o.d"
+  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_joystick.m" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o.d"
+  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_monitor.m" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o.d"
+  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/cocoa_window.m" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o.d"
+  "/Users/the-architekt/Dev/ChessProject/vendors/glfw/src/nsgl_context.m" "vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o" "gcc" "vendors/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

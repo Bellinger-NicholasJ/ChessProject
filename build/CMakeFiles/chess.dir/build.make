@@ -103,20 +103,93 @@ CMakeFiles/chess.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/chess.dir/src/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -S /Users/the-architekt/Dev/ChessProject/src/main.cpp -o CMakeFiles/chess.dir/src/main.cpp.s
 
+CMakeFiles/chess.dir/src/Shader.cpp.o: CMakeFiles/chess.dir/flags.make
+CMakeFiles/chess.dir/src/Shader.cpp.o: /Users/the-architekt/Dev/ChessProject/src/Shader.cpp
+CMakeFiles/chess.dir/src/Shader.cpp.o: CMakeFiles/chess.dir/cmake_pch.hxx
+CMakeFiles/chess.dir/src/Shader.cpp.o: CMakeFiles/chess.dir/cmake_pch.hxx.pch
+CMakeFiles/chess.dir/src/Shader.cpp.o: CMakeFiles/chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/chess.dir/src/Shader.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -MD -MT CMakeFiles/chess.dir/src/Shader.cpp.o -MF CMakeFiles/chess.dir/src/Shader.cpp.o.d -o CMakeFiles/chess.dir/src/Shader.cpp.o -c /Users/the-architekt/Dev/ChessProject/src/Shader.cpp
+
+CMakeFiles/chess.dir/src/Shader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/chess.dir/src/Shader.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -E /Users/the-architekt/Dev/ChessProject/src/Shader.cpp > CMakeFiles/chess.dir/src/Shader.cpp.i
+
+CMakeFiles/chess.dir/src/Shader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/chess.dir/src/Shader.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -S /Users/the-architekt/Dev/ChessProject/src/Shader.cpp -o CMakeFiles/chess.dir/src/Shader.cpp.s
+
+CMakeFiles/chess.dir/src/Sprite.cpp.o: CMakeFiles/chess.dir/flags.make
+CMakeFiles/chess.dir/src/Sprite.cpp.o: /Users/the-architekt/Dev/ChessProject/src/Sprite.cpp
+CMakeFiles/chess.dir/src/Sprite.cpp.o: CMakeFiles/chess.dir/cmake_pch.hxx
+CMakeFiles/chess.dir/src/Sprite.cpp.o: CMakeFiles/chess.dir/cmake_pch.hxx.pch
+CMakeFiles/chess.dir/src/Sprite.cpp.o: CMakeFiles/chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/chess.dir/src/Sprite.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -MD -MT CMakeFiles/chess.dir/src/Sprite.cpp.o -MF CMakeFiles/chess.dir/src/Sprite.cpp.o.d -o CMakeFiles/chess.dir/src/Sprite.cpp.o -c /Users/the-architekt/Dev/ChessProject/src/Sprite.cpp
+
+CMakeFiles/chess.dir/src/Sprite.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/chess.dir/src/Sprite.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -E /Users/the-architekt/Dev/ChessProject/src/Sprite.cpp > CMakeFiles/chess.dir/src/Sprite.cpp.i
+
+CMakeFiles/chess.dir/src/Sprite.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/chess.dir/src/Sprite.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -S /Users/the-architekt/Dev/ChessProject/src/Sprite.cpp -o CMakeFiles/chess.dir/src/Sprite.cpp.s
+
+CMakeFiles/chess.dir/src/Texture.cpp.o: CMakeFiles/chess.dir/flags.make
+CMakeFiles/chess.dir/src/Texture.cpp.o: /Users/the-architekt/Dev/ChessProject/src/Texture.cpp
+CMakeFiles/chess.dir/src/Texture.cpp.o: CMakeFiles/chess.dir/cmake_pch.hxx
+CMakeFiles/chess.dir/src/Texture.cpp.o: CMakeFiles/chess.dir/cmake_pch.hxx.pch
+CMakeFiles/chess.dir/src/Texture.cpp.o: CMakeFiles/chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/chess.dir/src/Texture.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -MD -MT CMakeFiles/chess.dir/src/Texture.cpp.o -MF CMakeFiles/chess.dir/src/Texture.cpp.o.d -o CMakeFiles/chess.dir/src/Texture.cpp.o -c /Users/the-architekt/Dev/ChessProject/src/Texture.cpp
+
+CMakeFiles/chess.dir/src/Texture.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/chess.dir/src/Texture.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -E /Users/the-architekt/Dev/ChessProject/src/Texture.cpp > CMakeFiles/chess.dir/src/Texture.cpp.i
+
+CMakeFiles/chess.dir/src/Texture.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/chess.dir/src/Texture.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -S /Users/the-architekt/Dev/ChessProject/src/Texture.cpp -o CMakeFiles/chess.dir/src/Texture.cpp.s
+
+CMakeFiles/chess.dir/src/Window.cpp.o: CMakeFiles/chess.dir/flags.make
+CMakeFiles/chess.dir/src/Window.cpp.o: /Users/the-architekt/Dev/ChessProject/src/Window.cpp
+CMakeFiles/chess.dir/src/Window.cpp.o: CMakeFiles/chess.dir/cmake_pch.hxx
+CMakeFiles/chess.dir/src/Window.cpp.o: CMakeFiles/chess.dir/cmake_pch.hxx.pch
+CMakeFiles/chess.dir/src/Window.cpp.o: CMakeFiles/chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/chess.dir/src/Window.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -MD -MT CMakeFiles/chess.dir/src/Window.cpp.o -MF CMakeFiles/chess.dir/src/Window.cpp.o.d -o CMakeFiles/chess.dir/src/Window.cpp.o -c /Users/the-architekt/Dev/ChessProject/src/Window.cpp
+
+CMakeFiles/chess.dir/src/Window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/chess.dir/src/Window.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -E /Users/the-architekt/Dev/ChessProject/src/Window.cpp > CMakeFiles/chess.dir/src/Window.cpp.i
+
+CMakeFiles/chess.dir/src/Window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/chess.dir/src/Window.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Winvalid-pch -Xclang -include-pch -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/the-architekt/Dev/ChessProject/build/CMakeFiles/chess.dir/cmake_pch.hxx -S /Users/the-architekt/Dev/ChessProject/src/Window.cpp -o CMakeFiles/chess.dir/src/Window.cpp.s
+
 # Object files for target chess
 chess_OBJECTS = \
-"CMakeFiles/chess.dir/src/main.cpp.o"
+"CMakeFiles/chess.dir/src/main.cpp.o" \
+"CMakeFiles/chess.dir/src/Shader.cpp.o" \
+"CMakeFiles/chess.dir/src/Sprite.cpp.o" \
+"CMakeFiles/chess.dir/src/Texture.cpp.o" \
+"CMakeFiles/chess.dir/src/Window.cpp.o"
 
 # External object files for target chess
 chess_EXTERNAL_OBJECTS =
 
 chess: CMakeFiles/chess.dir/cmake_pch.hxx.pch
 chess: CMakeFiles/chess.dir/src/main.cpp.o
+chess: CMakeFiles/chess.dir/src/Shader.cpp.o
+chess: CMakeFiles/chess.dir/src/Sprite.cpp.o
+chess: CMakeFiles/chess.dir/src/Texture.cpp.o
+chess: CMakeFiles/chess.dir/src/Window.cpp.o
 chess: CMakeFiles/chess.dir/build.make
 chess: vendors/glfw/src/libglfw3.a
 chess: vendors/glad/libglad.a
+chess: vendors/glm/glm/libglm.a
 chess: CMakeFiles/chess.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable chess"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/the-architekt/Dev/ChessProject/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable chess"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/chess.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
